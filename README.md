@@ -89,3 +89,11 @@
 <li> <a href="https://github.com/volchenkoff/git_bash"> Bash </a>  </li>
 </ul>
 </p>
+
+___
+
+### My CV:
+
+<ul>
+ <li>  <a href="https://disk.yandex.ru/d/ebwAGlmJq9tlnA">CV letter</a>
+ <ul>
